@@ -6,11 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.Blue;
-            Console.WriteLine("Sergi Jarmelishvili");
-            Console.WriteLine("Please Enter Words");
-            Console.WriteLine(Console.ReadLine());
-
+            Console.WriteLine("Hello World!");
         }
     }
 }
